@@ -5,8 +5,9 @@
 Vue Store is an eCommerce shoe store project that aims to provide users with a platform to browse and purchase shoes online. The project is developed by a single individual and utilizes various technologies such as Vue.js, PostgreSQL, Node.js, and Express.js.
 
 ## Project Timeline
-Total time: 1 Week
-The development of this project started on 4th July 2023 and is expected to be completed by 10th July 2023.
+- Total time: 1 Week (04/07/2023 - 10/07/2023) 
+
+- The development of this project started on 4th July 2023 and is expected to be completed by 10th July 2023.
 
 ## Installation and Setup
 
@@ -47,4 +48,4 @@ For customization of the project configuration, refer to the [Configuration Refe
 For any questions or feedback regarding the project, you can reach out to the project owner:
 
 - Email: Anh.PHN214986@sis.hust.edu.vn
-- GitHub: gagasieuga
+- GitHub: https://github.com/gagasieuga [gagasieuga]
