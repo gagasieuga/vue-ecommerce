@@ -14,7 +14,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone 
+   git clone https://github.com/gagasieuga/vue-ecommerce.git
    ```
 2. Build and install:
    This project is already built client-side with server-side, so no further installation steps is needed
