@@ -1,4 +1,4 @@
-# vue-ecommerce# Vue Store
+# Vue Store
 
 ## Project Description
 
