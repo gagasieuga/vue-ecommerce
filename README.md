@@ -11,6 +11,7 @@ Vue Store is an eCommerce shoe store project that aims to provide users with a p
 
 ## Installation and Setup
 
+Please note that you need to have PostgreSQL installed 
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
