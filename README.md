@@ -32,7 +32,7 @@ No need any further installation
 Make sure you are on the root directory, then:
 ```
 cd vue-store
-npm run server
+npm run serve
 ```
 - Server:
 Back to the root directory, then:
